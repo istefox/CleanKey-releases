@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.12.1</title>
+      <pubDate>Sat, 04 Jul 2026 19:43:03 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Improved</h3><ul><li>Keep Awake settings are now split into shorter, focused panes: Keep Awake, AI Coding, and Battery &amp; Thermal.</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.12.1/CleanKey-1.12.1.dmg" type="application/octet-stream" sparkle:edSignature="3IREcK7+CgY9jUYUaBq+sAt79fBeRcG8n1Uah3k6JzGNJF5JNNHtZtb+I5y8vdxNIgtCKEslO03Sh7StLKtJCg==" length="2682936" />
+    </item>
+    <item>
       <title>CleanKey 1.12.0</title>
       <pubDate>Sat, 04 Jul 2026 11:27:14 +0000</pubDate>
       <sparkle:version>32</sparkle:version>
