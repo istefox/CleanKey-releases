@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.13.1</title>
+      <pubDate>Sun, 05 Jul 2026 19:48:24 +0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Avoid duplicate-key trap in AgentEventDetector</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.13.1/CleanKey-1.13.1.dmg" type="application/octet-stream" sparkle:edSignature="mQIbb/XOyE8hLK7Ff1P9JM1+cVpD5350c8P1Y+CCKtuNPtH7vLOB5FibW4EjX1dgOWOiIMQObyK/cm4iFvBcBw==" length="2761490" />
+    </item>
+    <item>
       <title>CleanKey 1.13.0</title>
       <pubDate>Sun, 05 Jul 2026 12:49:52 +0000</pubDate>
       <sparkle:version>36</sparkle:version>
