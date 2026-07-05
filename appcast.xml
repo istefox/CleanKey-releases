@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.12.2</title>
+      <pubDate>Sun, 05 Jul 2026 00:27:02 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Release a trigger's source when it's disarmed</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.12.2/CleanKey-1.12.2.dmg" type="application/octet-stream" sparkle:edSignature="sfObPCyLQTX65Ky9RRlCqxfWBbB3wSe9tiXr5j0us6sjWjhC86GO72t4/0sJ0ZajEmuiyXtzBKG+Fzjg3STWBg==" length="2684016" />
+    </item>
+    <item>
       <title>CleanKey 1.12.1</title>
       <pubDate>Sat, 04 Jul 2026 19:43:03 +0000</pubDate>
       <sparkle:version>33</sparkle:version>
