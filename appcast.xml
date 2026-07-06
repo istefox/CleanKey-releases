@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.14.1</title>
+      <pubDate>Mon, 06 Jul 2026 12:30:25 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Detect session end by PID liveness, not beat age</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.14.1/CleanKey-1.14.1.dmg" type="application/octet-stream" sparkle:edSignature="jDzb2CeVJVHFqncmST76SsZjmb1fDX1nh3I+B2UYrS0Jf7jVpfPYjp3cgii8253pJ1WYV2GeTPmTq0qUKvuMAA==" length="3028285" />
+    </item>
+    <item>
       <title>CleanKey 1.14.0</title>
       <pubDate>Sun, 05 Jul 2026 20:00:18 +0000</pubDate>
       <sparkle:version>38</sparkle:version>
