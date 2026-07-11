@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.15.1</title>
+      <pubDate>Sat, 11 Jul 2026 17:32:27 +0000</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Wire alert center before building the dashboard window</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.15.1/CleanKey-1.15.1.dmg" type="application/octet-stream" sparkle:edSignature="DZiPgymxhjvAcixSq/quQ9F8mLadh1PyuNCuDM6GTauPpPqZ4ewOej8Ia0KNWorZAv1ai2VqVDxEu9MVqaYtBw==" length="3143859" />
+    </item>
+    <item>
       <title>CleanKey 1.15.0</title>
       <pubDate>Sat, 11 Jul 2026 11:33:38 +0000</pubDate>
       <sparkle:version>40</sparkle:version>
