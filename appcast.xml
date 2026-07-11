@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.15.0</title>
+      <pubDate>Sat, 11 Jul 2026 11:33:38 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Add delete UI for billing projects and clients</li><li>Wire enable-failure banner and alert through the adapter (ADR-018 T4-T8)</li><li>Add onEnableFailure callback and failure-banner seam (ADR-018 T1-T3)</li><li>Add history retention picker with CSV-export warning</li><li>Add retention window and row cap to the history store</li><li>Wire pricing refresh service into AppDelegate (ADR-016 T7-T8)</li><li>Wire PricingRefreshService into KeepAwakeFeature and the dashboard window</li><li>Persist refreshed pricing to disk with staleness classifier</li></ul><h3>Fixes</h3><ul><li>Bound the pricing staleness label width in the toolbar</li><li>Tap-install rollback, cursor balance, common-mode timers</li></ul><h3>Performance</h3><ul><li>Mtime-gated pid cache on the agent activity feed (ADR-020)</li><li>Off-main transcript parse, lazy PID liveness</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.15.0/CleanKey-1.15.0.dmg" type="application/octet-stream" sparkle:edSignature="m0L2FUpkf4sZYIyUAnTwAzE7o2mD9rUV9efCNVow5o96WlNZ/08op9MRn4mH4lomYaFdeGlxTR0VNfdHKqC1CQ==" length="3143960" />
+    </item>
+    <item>
       <title>CleanKey 1.14.1</title>
       <pubDate>Mon, 06 Jul 2026 12:30:25 +0000</pubDate>
       <sparkle:version>39</sparkle:version>
