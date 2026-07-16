@@ -3,6 +3,15 @@
   <channel>
     <title>CleanKey</title>
     <item>
+      <title>CleanKey 1.16.1</title>
+      <pubDate>Thu, 16 Jul 2026 22:45:28 +0000</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>Add white screen overlay mode</li></ul><h3>Fixes</h3><ul><li>Resolve history read seam lazily at window open</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/CleanKey-releases/releases/download/v1.16.1/CleanKey-1.16.1.dmg" type="application/octet-stream" sparkle:edSignature="+0eUDNSqyvcyXVRFlwb7szhLVx6XHyZXE6XCAyuDjq3GmSbBTl89Zf9B+eQs9TRM1DAiolTPybVdEwUAKYK+Dg==" length="3834373" />
+    </item>
+    <item>
       <title>CleanKey 1.16.0</title>
       <pubDate>Tue, 14 Jul 2026 13:09:41 +0000</pubDate>
       <sparkle:version>44</sparkle:version>
