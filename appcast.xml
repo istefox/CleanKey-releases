@@ -2,6 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Agentwake 2.0.4</title>
+      <pubDate>Wed, 22 Jul 2026 19:35:49 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixes</h3><ul><li>Boost cue asset volume from -22.5 to -1.0 dBFS</li></ul>]]></description>
+      <enclosure url="https://github.com/istefox/Agentwake-releases/releases/download/v2.0.4/Agentwake-2.0.4.dmg" type="application/octet-stream" sparkle:edSignature="BOft8tqhhqhtdCJUaE6aljeXs78Sxqh8gHqBSfyWLtqsdPXkkn3GAez6A6ySNOB+9NtrS4sGRsG3uOL75cPlBg==" length="4345709" />
+    </item>
+    <item>
       <title>Agentwake 2.0.3</title>
       <pubDate>Wed, 22 Jul 2026 18:13:54 +0000</pubDate>
       <sparkle:version>49</sparkle:version>
